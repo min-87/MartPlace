@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 3,
+            "name": "Illia",
+            "sirname": "Vakuliuk",
+            "photo_url": "https://naturecanada.ca/wp-content/uploads/2022/01/January-2022-3.png",
+            "balance": 1500
+        }
     ]
 }
