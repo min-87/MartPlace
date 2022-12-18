@@ -1,5 +1,10 @@
-{
-    "users": [
-        
-    ]
-}
+"users":[
+	{
+		"id": 1,
+		"name": "Gleb",
+		"sirname": "Korobov",
+		"photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnovxUqZpbL2i1114jBnpnzbluZWnnzGLSxN0YRDzKA&s",
+		"balance": "∞"
+		
+	}
+]
