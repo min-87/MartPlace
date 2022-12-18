@@ -1,5 +1,11 @@
 {
 	"users": [
-		
+		{
+			"id": 1,
+			"name": "Andriy",
+			"sirname": "Moskalenko", 
+			"photo_url": "https://www.telegraph.co.uk/content/dam/news/2022/11/08/TELEMMGLPICT000315441371_trans_NvBQzQNjv4BqqGWfd1Xw9GSkW-zBm8V2rD6UkDycMiCgX2cZHssK1WM.jpeg?imwidth=680",
+			"balance": 1500
+		}
 	]
 }
