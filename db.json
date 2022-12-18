@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+"users":[
+	{
+		"id": 1,
+		"name": "Gleb",
+		"sirname": "Korobov",
+		"photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnovxUqZpbL2i1114jBnpnzbluZWnnzGLSxN0YRDzKA&s",
+		"balance": "∞"
+		
+	}
+]
+=======
 {
     "users": [
         {
@@ -25,3 +37,4 @@
         }
     ]
 }
+>>>>>>> d6d6fbbf0183a5b647a3dd1c39b44f0ff56cd4b3
