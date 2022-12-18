@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+          "id": 9,
+        "name": "zarina",
+        "sirname": "gnatok",
+        "photo_url":"https://s2.dmcdn.net/v/FmTsf1NIy9LErVu4p/x1080",
+        "balance": 1500
+  
+        }
+    ]
+}
