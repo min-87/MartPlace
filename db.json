@@ -37,7 +37,24 @@
     ],
 
     "products": [
-    	
+    	{
+    		"id": 1,
+    		"model": "samsung",
+    		"year": 2022,
+    		"price": 15000,
+    		"photo_url": ""
+    	}
+
+    ],
+
+    "houses":[
+    	{
+    		"id": 1,
+    		"rooms": 10,
+    		"address": "Kyiv, Shevchenka 12",
+    		"price": 1500
+
+    	}
     ]
 >>>>>>> c3dfc22533e1b1e46d58be28cb17e977006ffa36
 
