@@ -18,6 +18,13 @@
         "photo_url":"https://s2.dmcdn.net/v/FmTsf1NIy9LErVu4p/x1080",
         "balance": 1500
   
+        },
+        {
+        	"id": 10,
+        	"name": "nilkita",
+        	"sirname": "dudko",
+        	"photo_url":"https://s2.dmcdn.net/v/FmTsf1NIy9LErVu4p/x1080",
+        	"balance": 1500
         }
     ],
 
