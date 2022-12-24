@@ -29,7 +29,13 @@
     ],
 
     "products": [
-    	
+    	{
+    		"id": 13,
+    		"model": "nokia30310",
+    		"year": 2000 ,
+    		"price": 900,
+    		"photo_url": "https://ireland.apollo.olxcdn.com/v1/files/wtgq2zwuikpv2-UA/image;s=1000x700"
+    	}
     ]
 >>>>>>> c3dfc22533e1b1e46d58be28cb17e977006ffa36
 
