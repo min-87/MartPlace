@@ -21,11 +21,19 @@
         },
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
         	"id": 10,
         	"name": "nilkita",
         	"sirname": "dudko",
         	"photo_url":"https://s2.dmcdn.net/v/FmTsf1NIy9LErVu4p/x1080",
         	"balance": 1500
+=======
+          "id":17,
+          "name":"Vanya",
+          "sirname":"Rastatguyv",
+          "photo_url":"https://lifeimg.pravda.com/images/doc/1/5/1564a59-zirka-755.png",
+          "balance":100
+>>>>>>> f8183275f3fce1630fb251fae8ca394d517be05a
 =======
         	"id": 13,
         "name": "Mykyta",
@@ -38,6 +46,7 @@
 
     "products": [
     	{
+<<<<<<< HEAD
     		"id": 1,
     		"model": "samsung",
     		"year": 2022,
@@ -54,6 +63,21 @@
     		"address": "Kyiv, Shevchenka 12",
     		"price": 1500
 
+=======
+    		"id": 13,
+    		"model": "nokia30310",
+    		"year": 2000 ,
+    		"price": 900,
+    		"photo_url": "https://ireland.apollo.olxcdn.com/v1/files/wtgq2zwuikpv2-UA/image;s=1000x700"
+    	},
+    	"products": [
+    	{
+    		"id": 17,
+    		"model": "iphoneX",
+    		"year": 2017 ,
+    		"price": 550€,
+    		"photo_url": "https://androidnik.ru/wp-content/uploads/2016/07/iphone-x-ajfon-10-texnicheskie-xarakteristiki6.jpg"
+>>>>>>> f8183275f3fce1630fb251fae8ca394d517be05a
     	}
     ]
 >>>>>>> c3dfc22533e1b1e46d58be28cb17e977006ffa36
