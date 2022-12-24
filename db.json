@@ -53,6 +53,15 @@
     		"photo_url": "https://androidnik.ru/wp-content/uploads/2016/07/iphone-x-ajfon-10-texnicheskie-xarakteristiki6.jpg"
     	}
     ]
+
+    	"houses":[
+    		{
+    			"id": 17,
+    			"rooms": 1,
+    			"addres": "frog, pepe 13",
+    			"price": 250000€
+    		}
+    	]
 >>>>>>> c3dfc22533e1b1e46d58be28cb17e977006ffa36
 
 
