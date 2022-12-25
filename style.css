@@ -1,0 +1,38 @@
+.great-color {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: coral;
+}
+
+.cool-h1 {
+    color: rgb(203, 212, 214);
+    font-size: 80px;
+    cursor: pointer;
+}
+
+.beuty-i:hover {
+    display: inline-block;
+    animation: past 0.5s infinite ease-in-out;
+}
+
+@keyframes past {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(45deg);
+    }
+
+    75% {
+        transform: rotate(-45deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
