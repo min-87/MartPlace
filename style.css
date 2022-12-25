@@ -1,13 +1,60 @@
+<<<<<<< HEAD
 .pepe{
 	background-color: green;
 	margin: 0;
 	padding: 0;
 	line-height: 60vh;
 	font-size: 12rem;
+=======
+<<<<<<< HEAD
+.great-color {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: coral;
+}
+
+.cool-h1 {
+    color: rgb(203, 212, 214);
+    font-size: 80px;
+    cursor: pointer;
+}
+
+.beuty-i:hover {
+    display: inline-block;
+    animation: past 0.5s infinite ease-in-out;
+}
+
+@keyframes past {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(45deg);
+    }
+
+    75% {
+        transform: rotate(-45deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+=======
+.centered-container{
+	margin: 0;
+	padding: 0;
+>>>>>>> 4d1985dc6b17585e9d9cbf029ee66190fec36e9a
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
+<<<<<<< HEAD
 	font-size: 400px;
 
 }
@@ -23,6 +70,20 @@
 }
 
 @keyframes FROG_PEPE_TOP{
+=======
+	background: linear-gradient(to left, #e35d5b, #e53935);
+}
+.not-bug{
+	color: #ffffff;
+	font-size: 3rem;
+	cursor: pointer;
+}
+#feature:hover{
+	display: inline-block;
+	animation: feature 0.5s infinite ease-in-out;
+}
+@keyframes feature{
+>>>>>>> 4d1985dc6b17585e9d9cbf029ee66190fec36e9a
 	0%{
 		transform: rotate(0deg);
 	}
@@ -35,4 +96,10 @@
 	100%{
 		transform: rotate(0deg);
 	}
+<<<<<<< HEAD
 }
+=======
+
+}
+>>>>>>> a58dc478abb0cfd2e6a62214d6daf2ac9d7251c0
+>>>>>>> 4d1985dc6b17585e9d9cbf029ee66190fec36e9a
