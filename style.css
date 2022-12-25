@@ -1,4 +1,19 @@
 <<<<<<< HEAD
+.pink{
+    background-color: thistle;
+   
+    
+}
+.blue{
+   color: lightpink;
+   font-family: cursive;
+   font-size: 3rem;
+   cursor: pointer;
+   display: flex;
+   justify-content: center;
+}
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 .yes{
     background-image: linear-gradient(90deg, yellow, blue);
@@ -99,3 +114,4 @@
 >>>>>>> a58dc478abb0cfd2e6a62214d6daf2ac9d7251c0
 }
 >>>>>>> a58dc478abb0cfd2e6a62214d6daf2ac9d7251c0
+>>>>>>> f3112e5079bf3d2747a6171632181af2b9282c98
