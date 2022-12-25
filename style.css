@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .my-container{
     margin: 0;
     padding: 0;
@@ -9,6 +10,45 @@
     justify-content: center;
     background-color:rgb(119, 122, 119);
     padding: 100px;
+=======
+.great-color {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: coral;
+}
+
+.cool-h1 {
+    color: rgb(203, 212, 214);
+    font-size: 80px;
+    cursor: pointer;
+}
+
+.beuty-i:hover {
+    display: inline-block;
+    animation: past 0.5s infinite ease-in-out;
+}
+
+@keyframes past {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(45deg);
+    }
+
+    75% {
+        transform: rotate(-45deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+>>>>>>> 4d1985dc6b17585e9d9cbf029ee66190fec36e9a
 }
 =======
 .centered-container{
