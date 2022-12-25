@@ -53,6 +53,12 @@
     		"price": 15000,
     		"photo_url": ""
     	}
+		{
+			"id": 7,
+    		"name":"orange",
+    		"year": 2022,
+    		"price": 0.20,
+		}
 
     ],
 
