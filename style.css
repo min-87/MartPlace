@@ -1,0 +1,19 @@
+.Local{
+    margin: 0;
+    padding: 0;
+    background-color:  black;
+    display: flex;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 150vh;
+    font-size: 50px;
+    
+
+}
+.one{
+color: blue;
+}
+.two{
+    color: yellow;
+}
