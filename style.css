@@ -1,0 +1,13 @@
+.pink{
+    background-color: thistle;
+   
+    
+}
+.blue{
+   color: lightpink;
+   font-family: cursive;
+   font-size: 3rem;
+   cursor: pointer;
+   display: flex;
+   justify-content: center;
+}
