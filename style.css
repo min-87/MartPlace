@@ -1,0 +1,19 @@
+.vakillerrh1{
+    color: azure;
+
+}
+
+.maindiv{
+    display: flex;
+    justify-content: center;
+}
+
+.vakillerrbody{
+    background-color: darkslategrey;
+
+}
+
+.imglorem:hover{
+    transform: scale(1.2);
+    transition-duration: 1s;
+}
