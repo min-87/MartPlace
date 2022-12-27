@@ -1,0 +1,33 @@
+.centered-container{
+    background-color: blanchedalmond;
+        margin:1;
+       padding: 1;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       height: 150vh;
+}
+.not-bug{
+    color:beige;
+    font-size: 3rem;
+    cursor: pointer;
+}
+#feature:hover{
+    display: inline-block;
+    animation: feature 0.9s infinite;
+}
+@keyframes feauture{
+    0%{
+        transform: rotate(0deg);
+    }
+    30%{
+        transform: rotate(45deg);
+    }
+    60%{
+        transform: rotate(-45deg);
+    }
+    
+    100%{
+        transform: rotate(0deg);
+    }
+}
